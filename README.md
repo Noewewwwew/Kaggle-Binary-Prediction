@@ -20,7 +20,8 @@
 6. 여러가지 모델과 스태킹
 
 ## 4. 최종 결과
-![image](https://github.com/user-attachments/assets/4f67c301-3a32-4cd5-a260-cf6979b20857)
+![image](https://github.com/user-attachments/assets/e35868a9-41e0-45e8-a79e-d9f282080f94)
+
 
 
 ## 5. 개선 해야 할 사항
